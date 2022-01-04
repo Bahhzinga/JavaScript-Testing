@@ -1,0 +1,12 @@
+body.darkmode {
+    color: white;
+    background-color: black;
+}
+body.lightmode {
+    color: black;
+    background-color: whitesmoke;
+}
+body.unicornvomit {
+    color: white;
+    background-color: pink;
+}
